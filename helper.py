@@ -1,4 +1,5 @@
 import keyboard
+
 right_key = ['j', 'k']
 right_target = 'l'
 left_key = ['d', 'f']
